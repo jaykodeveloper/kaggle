@@ -1,1 +1,1 @@
-C:\Users\mison\Sandbox\kaggle\competition
+This Repo is storing Kaggle competition I am participating
